@@ -1,0 +1,16 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "crud atualizado",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js localhost 3000"
+  },
+  "author": "yoander",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10",
+    "nodemon": "^2.0.13"
+  }
+}
